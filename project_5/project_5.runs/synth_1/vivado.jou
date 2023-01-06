@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Nov  4 17:21:19 2022
+# Process ID: 11596
+# Current directory: C:/Users/admin/project_5/project_5.runs/synth_1
+# Command line: vivado.exe -log JK_FLIP_FLOP_BD.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source JK_FLIP_FLOP_BD.tcl
+# Log file: C:/Users/admin/project_5/project_5.runs/synth_1/JK_FLIP_FLOP_BD.vds
+# Journal file: C:/Users/admin/project_5/project_5.runs/synth_1\vivado.jou
+# Running On: NH34, OS: Windows, CPU Frequency: 3000 MHz, CPU Physical cores: 8, Host memory: 16951 MB
+#-----------------------------------------------------------
+source JK_FLIP_FLOP_BD.tcl -notrace
